@@ -7,6 +7,9 @@ PINS START FROM 2 (first digit)
 int button = 0;
 int old_button = 0;
 int state = OFF;
+/*
+BUTTON PIN
+*/
 int pinButton = 12;
 int counter = 0;
 int old_counter = 0;
